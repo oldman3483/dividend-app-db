@@ -144,4 +144,5 @@ if __name__ == "__main__":
     print("開始導入 0050.csv 的資料...")
     Utils.import_stock_data("./stockDividend/00713.csv")
     Utils.import_stock_data("./stockDividend/00919.csv")
-
+    
+    ## last step is traverse to send the data to the server
